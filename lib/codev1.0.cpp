@@ -1,2 +1,8 @@
-// this is the first line of code
-// this is the second line of code
+#include "iostream"
+using namespace std;
+
+int main()
+{
+	cout<<"Hello there! This is a sample program.";
+	return 0;
+}
